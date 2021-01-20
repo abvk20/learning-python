@@ -9,9 +9,4 @@ for artist in artist_songs:
 for artist, song in artist_songs.items():
     print("This song",song,"by",artist,"is Marvelous")
 #Hanz - > Hanz Zimmer
-<<<<<<< HEAD
-#Inside Master Branch
-=======
-#lkdjaslfkdasfkldjasfdkasjf
-#dfgfsdggf
->>>>>>> test
+#Merged point of remotes/origin/master+master+test
